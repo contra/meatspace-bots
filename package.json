@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "request": "~2.33.0",
+    "markov": "0.0.7",
+    "meatbot": "0.0.3",
+    "cheerio": "~0.12.4"
+  }
+}
